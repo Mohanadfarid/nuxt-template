@@ -8,10 +8,11 @@ export default defineNuxtConfig({
   extends: ["./core", "./auth", "./localization", "./rbac", "./dashboard"],
 
   modules: [
-    "@nuxt/eslint",
-    "@nuxt/icon",
-    "@nuxt/image",
-    "@primevue/nuxt-module",
+   "@nuxt/eslint",
+   "@nuxt/icon",
+   "@nuxt/image",
+   "@primevue/nuxt-module",
+   "@nuxtjs/tailwindcss"
   ],
  primevue: {
     options: {
