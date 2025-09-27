@@ -1,0 +1,1547 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Richard Hunter",
+      "email": "fraziermikayla@jones.org",
+      "role": "user",
+      "status": "banned",
+      "createdAt": "2025-08-17T10:11:43"
+    },
+    {
+      "id": 2,
+      "name": "Pamela Middleton",
+      "email": "mhopkins@hotmail.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-02-12T02:11:52"
+    },
+    {
+      "id": 3,
+      "name": "Danielle Anderson",
+      "email": "egarcia@rodriguez.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-08-27T15:10:59"
+    },
+    {
+      "id": 4,
+      "name": "Michael Rodriguez",
+      "email": "ovargas@fox-jordan.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-01-12T00:15:58"
+    },
+    {
+      "id": 5,
+      "name": "Kaitlin Williams",
+      "email": "omarreeves@wheeler.biz",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-03-05T15:14:26"
+    },
+    {
+      "id": 6,
+      "name": "Frank Watson",
+      "email": "lisa09@woods.net",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-04-25T18:41:18"
+    },
+    {
+      "id": 7,
+      "name": "Darryl King",
+      "email": "clinton60@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-07-10T05:50:48"
+    },
+    {
+      "id": 8,
+      "name": "Michelle Livingston",
+      "email": "navarrodebra@gmail.com",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-03-06T01:20:06"
+    },
+    {
+      "id": 9,
+      "name": "William Holder",
+      "email": "anthony97@yahoo.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-01-05T04:26:40"
+    },
+    {
+      "id": 10,
+      "name": "Kevin Meyer",
+      "email": "timothyperez@yahoo.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-08-04T09:25:29"
+    },
+    {
+      "id": 11,
+      "name": "Joshua Molina",
+      "email": "jason65@johnson.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-07-15T11:46:15"
+    },
+    {
+      "id": 12,
+      "name": "Lawrence Thompson",
+      "email": "jacksonsamuel@watts.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-06-19T19:05:34"
+    },
+    {
+      "id": 13,
+      "name": "Judy Gonzalez",
+      "email": "victoria30@reed.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-02-23T12:45:00"
+    },
+    {
+      "id": 14,
+      "name": "Danielle Fitzgerald",
+      "email": "tyronecarpenter@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-05-20T12:32:09"
+    },
+    {
+      "id": 15,
+      "name": "Jeffrey Miller",
+      "email": "williamsjames@gmail.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-04-18T16:39:46"
+    },
+    {
+      "id": 16,
+      "name": "Amy Mclean",
+      "email": "andrew47@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-01-29T05:10:05"
+    },
+    {
+      "id": 17,
+      "name": "Brian Washington",
+      "email": "zbuckley@gmail.com",
+      "role": "editor",
+      "status": "banned",
+      "createdAt": "2025-09-07T17:55:18"
+    },
+    {
+      "id": 18,
+      "name": "Kim Gibson",
+      "email": "twright@daniels-williams.net",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-02-14T12:51:19"
+    },
+    {
+      "id": 19,
+      "name": "Nancy Perez",
+      "email": "arnoldjason@harrell.info",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-09-18T10:30:59"
+    },
+    {
+      "id": 20,
+      "name": "Gabrielle Santiago",
+      "email": "todd40@morris.info",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-09-01T12:49:02"
+    },
+    {
+      "id": 21,
+      "name": "Joshua Morrow",
+      "email": "washingtonshane@yahoo.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-05-09T18:05:46"
+    },
+    {
+      "id": 22,
+      "name": "Susan Johnston",
+      "email": "kendra90@hotmail.com",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-01-24T04:20:48"
+    },
+    {
+      "id": 23,
+      "name": "Jacob Turner",
+      "email": "blakejustin@gaines-gomez.com",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2025-08-22T04:22:22"
+    },
+    {
+      "id": 24,
+      "name": "Victoria Greer",
+      "email": "lozanokenneth@parker.com",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-08-11T06:07:51"
+    },
+    {
+      "id": 25,
+      "name": "Diana Hickman",
+      "email": "paul31@colon-castro.info",
+      "role": "editor",
+      "status": "banned",
+      "createdAt": "2025-07-03T20:01:23"
+    },
+    {
+      "id": 26,
+      "name": "Chase Campbell",
+      "email": "davissarah@peters.org",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-06T21:31:13"
+    },
+    {
+      "id": 27,
+      "name": "Christopher Jones",
+      "email": "tannerbrent@gutierrez.com",
+      "role": "user",
+      "status": "banned",
+      "createdAt": "2025-02-22T09:39:09"
+    },
+    {
+      "id": 28,
+      "name": "George Cooper",
+      "email": "kylemorales@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-01-28T02:17:04"
+    },
+    {
+      "id": 29,
+      "name": "Robin Lee",
+      "email": "fergusonrobert@gmail.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-07-31T09:53:10"
+    },
+    {
+      "id": 30,
+      "name": "Jesse Macdonald",
+      "email": "rhonda54@thompson-jackson.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-03-11T01:53:14"
+    },
+    {
+      "id": 31,
+      "name": "Carrie Archer",
+      "email": "denise62@foster.com",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2025-04-09T07:44:56"
+    },
+    {
+      "id": 32,
+      "name": "Katrina Dennis",
+      "email": "nwilliams@elliott.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-09-22T21:49:46"
+    },
+    {
+      "id": 33,
+      "name": "Jeremy Patel",
+      "email": "edwin03@hotmail.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-01-15T20:27:25"
+    },
+    {
+      "id": 34,
+      "name": "Stephanie Peterson",
+      "email": "alyssa04@gmail.com",
+      "role": "user",
+      "status": "banned",
+      "createdAt": "2025-09-01T18:08:19"
+    },
+    {
+      "id": 35,
+      "name": "Sheila Jackson",
+      "email": "ericmcintyre@hotmail.com",
+      "role": "editor",
+      "status": "inactive",
+      "createdAt": "2025-05-20T11:50:20"
+    },
+    {
+      "id": 36,
+      "name": "Christina Hansen",
+      "email": "williamsdana@yahoo.com",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-07-14T01:56:56"
+    },
+    {
+      "id": 37,
+      "name": "Diana Foster",
+      "email": "holtsandra@simon.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-09-07T10:08:45"
+    },
+    {
+      "id": 38,
+      "name": "Cheryl Lopez",
+      "email": "robert96@miller.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-02-18T08:24:03"
+    },
+    {
+      "id": 39,
+      "name": "Steven Rojas",
+      "email": "brendanrodriguez@yahoo.com",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2025-08-08T18:20:51"
+    },
+    {
+      "id": 40,
+      "name": "Michelle Robinson",
+      "email": "paynemichael@hotmail.com",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-07-06T19:00:39"
+    },
+    {
+      "id": 41,
+      "name": "Noah Graves",
+      "email": "edward02@molina.com",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-09-23T05:12:52"
+    },
+    {
+      "id": 42,
+      "name": "Dawn Scott",
+      "email": "robertsmith@thompson.org",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-05-07T11:08:55"
+    },
+    {
+      "id": 43,
+      "name": "Maxwell Matthews",
+      "email": "alan78@gmail.com",
+      "role": "user",
+      "status": "banned",
+      "createdAt": "2025-04-11T03:07:35"
+    },
+    {
+      "id": 44,
+      "name": "Meghan Pratt",
+      "email": "nathanpearson@maddox.com",
+      "role": "admin",
+      "status": "banned",
+      "createdAt": "2025-07-22T17:09:27"
+    },
+    {
+      "id": 45,
+      "name": "Dr. Jessica Moore",
+      "email": "fosteranthony@gmail.com",
+      "role": "user",
+      "status": "banned",
+      "createdAt": "2025-06-16T19:28:00"
+    },
+    {
+      "id": 46,
+      "name": "Loretta Castro",
+      "email": "andreruiz@gmail.com",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2025-06-18T04:12:39"
+    },
+    {
+      "id": 47,
+      "name": "Erika Parrish",
+      "email": "brian38@yahoo.com",
+      "role": "editor",
+      "status": "active",
+      "createdAt": "2025-07-26T16:21:24"
+    },
+    {
+      "id": 48,
+      "name": "Deborah Warner",
+      "email": "russell04@gmail.com",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-04-06T17:41:37"
+    },
+    {
+      "id": 49,
+      "name": "Deborah Nicholson",
+      "email": "danamay@hotmail.com",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2025-04-19T04:18:31"
+    },
+    {
+      "id": 50,
+      "name": "Mary Lucas",
+      "email": "sylviaporter@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-06-08T17:27:13"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Close",
+      "category": "Clothing",
+      "price": 332.91,
+      "stock": 52,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 2,
+      "name": "Religious",
+      "category": "Clothing",
+      "price": 350.91,
+      "stock": 182,
+      "status": "discontinued"
+    },
+    {
+      "id": 3,
+      "name": "Number",
+      "category": "Home",
+      "price": 21.15,
+      "stock": 118,
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Area",
+      "category": "Books",
+      "price": 188.6,
+      "stock": 200,
+      "status": "discontinued"
+    },
+    {
+      "id": 5,
+      "name": "Use",
+      "category": "Clothing",
+      "price": 76.78,
+      "stock": 178,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 6,
+      "name": "Life",
+      "category": "Clothing",
+      "price": 161.42,
+      "stock": 28,
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Indicate",
+      "category": "Home",
+      "price": 226.29,
+      "stock": 7,
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "American",
+      "category": "Electronics",
+      "price": 63.28,
+      "stock": 95,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 9,
+      "name": "Body",
+      "category": "Clothing",
+      "price": 326.53,
+      "stock": 14,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 10,
+      "name": "Machine",
+      "category": "Sports",
+      "price": 336.35,
+      "stock": 57,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 11,
+      "name": "Sport",
+      "category": "Clothing",
+      "price": 337.43,
+      "stock": 64,
+      "status": "discontinued"
+    },
+    {
+      "id": 12,
+      "name": "Push",
+      "category": "Clothing",
+      "price": 10.01,
+      "stock": 27,
+      "status": "discontinued"
+    },
+    {
+      "id": 13,
+      "name": "Others",
+      "category": "Electronics",
+      "price": 177.65,
+      "stock": 83,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 14,
+      "name": "Life",
+      "category": "Sports",
+      "price": 370.72,
+      "stock": 153,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 15,
+      "name": "Task",
+      "category": "Books",
+      "price": 416.63,
+      "stock": 50,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 16,
+      "name": "Fact",
+      "category": "Clothing",
+      "price": 288.19,
+      "stock": 130,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 17,
+      "name": "Police",
+      "category": "Sports",
+      "price": 234.35,
+      "stock": 107,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 18,
+      "name": "Financial",
+      "category": "Home",
+      "price": 30.16,
+      "stock": 124,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 19,
+      "name": "Play",
+      "category": "Books",
+      "price": 381.69,
+      "stock": 155,
+      "status": "available"
+    },
+    {
+      "id": 20,
+      "name": "Long",
+      "category": "Home",
+      "price": 261.67,
+      "stock": 6,
+      "status": "available"
+    },
+    {
+      "id": 21,
+      "name": "Three",
+      "category": "Sports",
+      "price": 126.38,
+      "stock": 127,
+      "status": "available"
+    },
+    {
+      "id": 22,
+      "name": "Recognize",
+      "category": "Books",
+      "price": 227.01,
+      "stock": 167,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 23,
+      "name": "Foreign",
+      "category": "Sports",
+      "price": 182.21,
+      "stock": 171,
+      "status": "discontinued"
+    },
+    {
+      "id": 24,
+      "name": "On",
+      "category": "Home",
+      "price": 441.47,
+      "stock": 177,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 25,
+      "name": "Speak",
+      "category": "Clothing",
+      "price": 93.96,
+      "stock": 176,
+      "status": "available"
+    },
+    {
+      "id": 26,
+      "name": "Few",
+      "category": "Home",
+      "price": 140.33,
+      "stock": 197,
+      "status": "discontinued"
+    },
+    {
+      "id": 27,
+      "name": "Past",
+      "category": "Electronics",
+      "price": 86.16,
+      "stock": 128,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 28,
+      "name": "Natural",
+      "category": "Books",
+      "price": 417.34,
+      "stock": 134,
+      "status": "discontinued"
+    },
+    {
+      "id": 29,
+      "name": "Cause",
+      "category": "Electronics",
+      "price": 473.1,
+      "stock": 166,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 30,
+      "name": "Force",
+      "category": "Home",
+      "price": 353.8,
+      "stock": 162,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 31,
+      "name": "Hour",
+      "category": "Home",
+      "price": 402.95,
+      "stock": 120,
+      "status": "available"
+    },
+    {
+      "id": 32,
+      "name": "Cause",
+      "category": "Books",
+      "price": 271.22,
+      "stock": 92,
+      "status": "discontinued"
+    },
+    {
+      "id": 33,
+      "name": "American",
+      "category": "Clothing",
+      "price": 11.53,
+      "stock": 164,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 34,
+      "name": "Fear",
+      "category": "Clothing",
+      "price": 154.58,
+      "stock": 63,
+      "status": "discontinued"
+    },
+    {
+      "id": 35,
+      "name": "Bar",
+      "category": "Home",
+      "price": 28.24,
+      "stock": 158,
+      "status": "discontinued"
+    },
+    {
+      "id": 36,
+      "name": "Congress",
+      "category": "Sports",
+      "price": 476.2,
+      "stock": 19,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 37,
+      "name": "Fall",
+      "category": "Electronics",
+      "price": 135.81,
+      "stock": 50,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 38,
+      "name": "Fear",
+      "category": "Electronics",
+      "price": 200.91,
+      "stock": 119,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 39,
+      "name": "Power",
+      "category": "Sports",
+      "price": 46.87,
+      "stock": 117,
+      "status": "available"
+    },
+    {
+      "id": 40,
+      "name": "Always",
+      "category": "Sports",
+      "price": 437.94,
+      "stock": 31,
+      "status": "discontinued"
+    },
+    {
+      "id": 41,
+      "name": "Who",
+      "category": "Sports",
+      "price": 133.81,
+      "stock": 64,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 42,
+      "name": "Skin",
+      "category": "Home",
+      "price": 323.14,
+      "stock": 39,
+      "status": "available"
+    },
+    {
+      "id": 43,
+      "name": "Series",
+      "category": "Sports",
+      "price": 341.98,
+      "stock": 143,
+      "status": "discontinued"
+    },
+    {
+      "id": 44,
+      "name": "Entire",
+      "category": "Sports",
+      "price": 302.95,
+      "stock": 98,
+      "status": "available"
+    },
+    {
+      "id": 45,
+      "name": "Establish",
+      "category": "Sports",
+      "price": 156.91,
+      "stock": 98,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 46,
+      "name": "Do",
+      "category": "Sports",
+      "price": 265.71,
+      "stock": 198,
+      "status": "available"
+    },
+    {
+      "id": 47,
+      "name": "History",
+      "category": "Sports",
+      "price": 182.65,
+      "stock": 45,
+      "status": "out_of_stock"
+    },
+    {
+      "id": 48,
+      "name": "Size",
+      "category": "Home",
+      "price": 179.28,
+      "stock": 149,
+      "status": "discontinued"
+    },
+    {
+      "id": 49,
+      "name": "Already",
+      "category": "Sports",
+      "price": 253.07,
+      "stock": 20,
+      "status": "discontinued"
+    },
+    {
+      "id": 50,
+      "name": "From",
+      "category": "Sports",
+      "price": 172.67,
+      "stock": 18,
+      "status": "out_of_stock"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer": "Maxwell Matthews",
+      "date": "2025-06-10T12:58:16",
+      "status": "cancelled",
+      "totalAmount": 996.94
+    },
+    {
+      "id": 2,
+      "customer": "Amy Mclean",
+      "date": "2025-08-16T08:54:38",
+      "status": "shipped",
+      "totalAmount": 1709.49
+    },
+    {
+      "id": 3,
+      "customer": "Cheryl Lopez",
+      "date": "2025-03-07T05:35:01",
+      "status": "cancelled",
+      "totalAmount": 463.22
+    },
+    {
+      "id": 4,
+      "customer": "Meghan Pratt",
+      "date": "2025-01-23T09:16:49",
+      "status": "cancelled",
+      "totalAmount": 1633.11
+    },
+    {
+      "id": 5,
+      "customer": "Mary Lucas",
+      "date": "2025-09-01T08:33:17",
+      "status": "cancelled",
+      "totalAmount": 340.98
+    },
+    {
+      "id": 6,
+      "customer": "Jeffrey Miller",
+      "date": "2025-07-22T15:22:51",
+      "status": "cancelled",
+      "totalAmount": 1388.29
+    },
+    {
+      "id": 7,
+      "customer": "Joshua Molina",
+      "date": "2025-04-03T19:06:32",
+      "status": "cancelled",
+      "totalAmount": 334.45
+    },
+    {
+      "id": 8,
+      "customer": "Katrina Dennis",
+      "date": "2025-02-21T18:26:25",
+      "status": "shipped",
+      "totalAmount": 1484.12
+    },
+    {
+      "id": 9,
+      "customer": "Dawn Scott",
+      "date": "2025-04-06T19:37:07",
+      "status": "pending",
+      "totalAmount": 374.78
+    },
+    {
+      "id": 10,
+      "customer": "Maxwell Matthews",
+      "date": "2025-05-19T19:34:21",
+      "status": "cancelled",
+      "totalAmount": 1937.97
+    },
+    {
+      "id": 11,
+      "customer": "Loretta Castro",
+      "date": "2025-04-09T04:50:05",
+      "status": "delivered",
+      "totalAmount": 1705.59
+    },
+    {
+      "id": 12,
+      "customer": "Jacob Turner",
+      "date": "2025-04-13T20:10:58",
+      "status": "cancelled",
+      "totalAmount": 798.27
+    },
+    {
+      "id": 13,
+      "customer": "Carrie Archer",
+      "date": "2025-07-03T02:31:09",
+      "status": "delivered",
+      "totalAmount": 1534.51
+    },
+    {
+      "id": 14,
+      "customer": "Brian Washington",
+      "date": "2025-05-03T22:21:25",
+      "status": "pending",
+      "totalAmount": 453.43
+    },
+    {
+      "id": 15,
+      "customer": "Maxwell Matthews",
+      "date": "2025-01-13T10:37:37",
+      "status": "pending",
+      "totalAmount": 1172.64
+    },
+    {
+      "id": 16,
+      "customer": "Gabrielle Santiago",
+      "date": "2025-06-12T14:18:49",
+      "status": "pending",
+      "totalAmount": 246.79
+    },
+    {
+      "id": 17,
+      "customer": "Jacob Turner",
+      "date": "2025-07-12T03:07:32",
+      "status": "cancelled",
+      "totalAmount": 432.87
+    },
+    {
+      "id": 18,
+      "customer": "Victoria Greer",
+      "date": "2025-06-20T05:41:10",
+      "status": "delivered",
+      "totalAmount": 750.77
+    },
+    {
+      "id": 19,
+      "customer": "Jesse Macdonald",
+      "date": "2025-02-02T22:21:04",
+      "status": "cancelled",
+      "totalAmount": 213.41
+    },
+    {
+      "id": 20,
+      "customer": "Jacob Turner",
+      "date": "2025-02-17T15:42:43",
+      "status": "cancelled",
+      "totalAmount": 1744.7
+    },
+    {
+      "id": 21,
+      "customer": "Stephanie Peterson",
+      "date": "2025-06-26T01:11:12",
+      "status": "cancelled",
+      "totalAmount": 308.75
+    },
+    {
+      "id": 22,
+      "customer": "Susan Johnston",
+      "date": "2025-04-05T15:38:39",
+      "status": "shipped",
+      "totalAmount": 669.85
+    },
+    {
+      "id": 23,
+      "customer": "Jesse Macdonald",
+      "date": "2025-01-09T15:05:56",
+      "status": "shipped",
+      "totalAmount": 1347.74
+    },
+    {
+      "id": 24,
+      "customer": "Sheila Jackson",
+      "date": "2025-03-01T11:48:07",
+      "status": "shipped",
+      "totalAmount": 1743.34
+    },
+    {
+      "id": 25,
+      "customer": "Cheryl Lopez",
+      "date": "2025-06-12T06:43:14",
+      "status": "delivered",
+      "totalAmount": 360.98
+    },
+    {
+      "id": 26,
+      "customer": "Diana Hickman",
+      "date": "2025-07-17T08:35:01",
+      "status": "delivered",
+      "totalAmount": 1225.48
+    },
+    {
+      "id": 27,
+      "customer": "Deborah Nicholson",
+      "date": "2025-01-29T13:42:39",
+      "status": "pending",
+      "totalAmount": 1656.41
+    },
+    {
+      "id": 28,
+      "customer": "Christopher Jones",
+      "date": "2025-08-02T16:01:48",
+      "status": "cancelled",
+      "totalAmount": 89.4
+    },
+    {
+      "id": 29,
+      "customer": "Lawrence Thompson",
+      "date": "2025-09-07T15:44:43",
+      "status": "delivered",
+      "totalAmount": 1047.18
+    },
+    {
+      "id": 30,
+      "customer": "Danielle Anderson",
+      "date": "2025-04-13T12:39:33",
+      "status": "shipped",
+      "totalAmount": 1581.96
+    },
+    {
+      "id": 31,
+      "customer": "Kim Gibson",
+      "date": "2025-06-15T09:55:57",
+      "status": "pending",
+      "totalAmount": 1389.74
+    },
+    {
+      "id": 32,
+      "customer": "Darryl King",
+      "date": "2025-03-10T11:45:10",
+      "status": "shipped",
+      "totalAmount": 1525.28
+    },
+    {
+      "id": 33,
+      "customer": "George Cooper",
+      "date": "2025-09-06T05:32:54",
+      "status": "shipped",
+      "totalAmount": 748.35
+    },
+    {
+      "id": 34,
+      "customer": "Lawrence Thompson",
+      "date": "2025-04-26T23:28:17",
+      "status": "shipped",
+      "totalAmount": 394.62
+    },
+    {
+      "id": 35,
+      "customer": "Kim Gibson",
+      "date": "2025-03-31T20:09:55",
+      "status": "cancelled",
+      "totalAmount": 32.45
+    },
+    {
+      "id": 36,
+      "customer": "Noah Graves",
+      "date": "2025-01-03T13:28:31",
+      "status": "cancelled",
+      "totalAmount": 1266.5
+    },
+    {
+      "id": 37,
+      "customer": "Danielle Fitzgerald",
+      "date": "2025-02-19T22:26:32",
+      "status": "delivered",
+      "totalAmount": 1650.35
+    },
+    {
+      "id": 38,
+      "customer": "Jeremy Patel",
+      "date": "2025-03-15T12:04:37",
+      "status": "cancelled",
+      "totalAmount": 1304.61
+    },
+    {
+      "id": 39,
+      "customer": "Christopher Jones",
+      "date": "2025-05-09T13:11:04",
+      "status": "shipped",
+      "totalAmount": 1042.52
+    },
+    {
+      "id": 40,
+      "customer": "Kaitlin Williams",
+      "date": "2025-08-15T00:37:05",
+      "status": "shipped",
+      "totalAmount": 454.21
+    },
+    {
+      "id": 41,
+      "customer": "Kim Gibson",
+      "date": "2025-04-05T22:31:43",
+      "status": "pending",
+      "totalAmount": 350.91
+    },
+    {
+      "id": 42,
+      "customer": "Amy Mclean",
+      "date": "2025-08-02T02:50:37",
+      "status": "pending",
+      "totalAmount": 441.99
+    },
+    {
+      "id": 43,
+      "customer": "Erika Parrish",
+      "date": "2025-05-06T08:06:37",
+      "status": "pending",
+      "totalAmount": 387.35
+    },
+    {
+      "id": 44,
+      "customer": "Kevin Meyer",
+      "date": "2025-03-08T10:52:28",
+      "status": "cancelled",
+      "totalAmount": 1889.13
+    },
+    {
+      "id": 45,
+      "customer": "Chase Campbell",
+      "date": "2025-07-07T00:45:20",
+      "status": "delivered",
+      "totalAmount": 801.69
+    },
+    {
+      "id": 46,
+      "customer": "Kaitlin Williams",
+      "date": "2025-02-27T05:19:35",
+      "status": "shipped",
+      "totalAmount": 1896.01
+    },
+    {
+      "id": 47,
+      "customer": "Christina Hansen",
+      "date": "2025-06-18T04:49:59",
+      "status": "pending",
+      "totalAmount": 1820.85
+    },
+    {
+      "id": 48,
+      "customer": "Kaitlin Williams",
+      "date": "2025-09-03T04:56:00",
+      "status": "shipped",
+      "totalAmount": 1716.14
+    },
+    {
+      "id": 49,
+      "customer": "Jacob Turner",
+      "date": "2025-02-24T12:10:08",
+      "status": "pending",
+      "totalAmount": 1812.94
+    },
+    {
+      "id": 50,
+      "customer": "Cheryl Lopez",
+      "date": "2025-06-28T01:58:40",
+      "status": "cancelled",
+      "totalAmount": 420.55
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "admin",
+      "assignedUsers": 11,
+      "permissions": [
+        "write",
+        "update",
+        "read",
+        "delete"
+      ],
+      "createdAt": "2025-05-08T17:57:29"
+    },
+    {
+      "id": 2,
+      "roleName": "editor",
+      "assignedUsers": 26,
+      "permissions": [
+        "write",
+        "read",
+        "update",
+        "delete"
+      ],
+      "createdAt": "2025-02-10T11:49:03"
+    },
+    {
+      "id": 3,
+      "roleName": "user",
+      "assignedUsers": 7,
+      "permissions": [
+        "update",
+        "delete",
+        "read"
+      ],
+      "createdAt": "2025-07-12T06:08:33"
+    }
+  ],
+  "logs": [
+    {
+      "id": 1,
+      "user": "Mary Lucas",
+      "action": "create",
+      "timestamp": "2025-06-16T04:03:00",
+      "status": "success"
+    },
+    {
+      "id": 2,
+      "user": "Stephanie Peterson",
+      "action": "delete",
+      "timestamp": "2025-03-19T07:10:28",
+      "status": "success"
+    },
+    {
+      "id": 3,
+      "user": "Danielle Anderson",
+      "action": "login",
+      "timestamp": "2025-03-03T18:10:27",
+      "status": "success"
+    },
+    {
+      "id": 4,
+      "user": "Noah Graves",
+      "action": "delete",
+      "timestamp": "2025-06-14T16:36:52",
+      "status": "failure"
+    },
+    {
+      "id": 5,
+      "user": "Michelle Livingston",
+      "action": "logout",
+      "timestamp": "2025-02-03T05:06:22",
+      "status": "success"
+    },
+    {
+      "id": 6,
+      "user": "Diana Hickman",
+      "action": "create",
+      "timestamp": "2025-01-25T00:14:28",
+      "status": "success"
+    },
+    {
+      "id": 7,
+      "user": "Joshua Molina",
+      "action": "update",
+      "timestamp": "2025-05-08T10:12:19",
+      "status": "success"
+    },
+    {
+      "id": 8,
+      "user": "Kim Gibson",
+      "action": "delete",
+      "timestamp": "2025-06-22T08:14:17",
+      "status": "failure"
+    },
+    {
+      "id": 9,
+      "user": "Michael Rodriguez",
+      "action": "delete",
+      "timestamp": "2025-03-27T12:51:44",
+      "status": "failure"
+    },
+    {
+      "id": 10,
+      "user": "Sheila Jackson",
+      "action": "logout",
+      "timestamp": "2025-03-22T02:32:06",
+      "status": "success"
+    },
+    {
+      "id": 11,
+      "user": "Katrina Dennis",
+      "action": "login",
+      "timestamp": "2025-02-20T08:55:59",
+      "status": "failure"
+    },
+    {
+      "id": 12,
+      "user": "George Cooper",
+      "action": "create",
+      "timestamp": "2025-01-11T03:53:16",
+      "status": "failure"
+    },
+    {
+      "id": 13,
+      "user": "Nancy Perez",
+      "action": "delete",
+      "timestamp": "2025-05-26T01:54:43",
+      "status": "success"
+    },
+    {
+      "id": 14,
+      "user": "Pamela Middleton",
+      "action": "update",
+      "timestamp": "2025-07-04T12:36:05",
+      "status": "failure"
+    },
+    {
+      "id": 15,
+      "user": "Susan Johnston",
+      "action": "update",
+      "timestamp": "2025-03-15T18:29:03",
+      "status": "success"
+    },
+    {
+      "id": 16,
+      "user": "Jacob Turner",
+      "action": "create",
+      "timestamp": "2025-01-06T10:11:02",
+      "status": "success"
+    },
+    {
+      "id": 17,
+      "user": "Michelle Livingston",
+      "action": "create",
+      "timestamp": "2025-03-17T13:47:55",
+      "status": "failure"
+    },
+    {
+      "id": 18,
+      "user": "Danielle Anderson",
+      "action": "logout",
+      "timestamp": "2025-05-10T16:28:36",
+      "status": "success"
+    },
+    {
+      "id": 19,
+      "user": "Deborah Warner",
+      "action": "create",
+      "timestamp": "2025-02-16T19:52:58",
+      "status": "success"
+    },
+    {
+      "id": 20,
+      "user": "Erika Parrish",
+      "action": "update",
+      "timestamp": "2025-09-23T19:26:09",
+      "status": "failure"
+    },
+    {
+      "id": 21,
+      "user": "Noah Graves",
+      "action": "update",
+      "timestamp": "2025-06-05T09:33:46",
+      "status": "success"
+    },
+    {
+      "id": 22,
+      "user": "Richard Hunter",
+      "action": "delete",
+      "timestamp": "2025-01-22T12:59:49",
+      "status": "success"
+    },
+    {
+      "id": 23,
+      "user": "Judy Gonzalez",
+      "action": "logout",
+      "timestamp": "2025-07-29T00:46:42",
+      "status": "success"
+    },
+    {
+      "id": 24,
+      "user": "Loretta Castro",
+      "action": "delete",
+      "timestamp": "2025-02-18T18:30:21",
+      "status": "success"
+    },
+    {
+      "id": 25,
+      "user": "Danielle Fitzgerald",
+      "action": "login",
+      "timestamp": "2025-05-13T18:08:25",
+      "status": "failure"
+    },
+    {
+      "id": 26,
+      "user": "Danielle Anderson",
+      "action": "delete",
+      "timestamp": "2025-03-07T06:35:11",
+      "status": "success"
+    },
+    {
+      "id": 27,
+      "user": "Danielle Fitzgerald",
+      "action": "login",
+      "timestamp": "2025-05-03T13:03:17",
+      "status": "success"
+    },
+    {
+      "id": 28,
+      "user": "Meghan Pratt",
+      "action": "delete",
+      "timestamp": "2025-09-25T14:03:55",
+      "status": "success"
+    },
+    {
+      "id": 29,
+      "user": "Kim Gibson",
+      "action": "delete",
+      "timestamp": "2025-06-08T15:20:42",
+      "status": "success"
+    },
+    {
+      "id": 30,
+      "user": "Victoria Greer",
+      "action": "create",
+      "timestamp": "2025-03-03T15:20:04",
+      "status": "failure"
+    },
+    {
+      "id": 31,
+      "user": "Cheryl Lopez",
+      "action": "logout",
+      "timestamp": "2025-05-18T02:03:50",
+      "status": "success"
+    },
+    {
+      "id": 32,
+      "user": "Loretta Castro",
+      "action": "delete",
+      "timestamp": "2025-06-23T19:01:06",
+      "status": "success"
+    },
+    {
+      "id": 33,
+      "user": "Brian Washington",
+      "action": "login",
+      "timestamp": "2025-03-07T21:12:39",
+      "status": "failure"
+    },
+    {
+      "id": 34,
+      "user": "Kim Gibson",
+      "action": "create",
+      "timestamp": "2025-09-15T11:11:32",
+      "status": "success"
+    },
+    {
+      "id": 35,
+      "user": "Joshua Morrow",
+      "action": "delete",
+      "timestamp": "2025-04-06T20:34:33",
+      "status": "success"
+    },
+    {
+      "id": 36,
+      "user": "Joshua Morrow",
+      "action": "delete",
+      "timestamp": "2025-06-18T22:07:39",
+      "status": "success"
+    },
+    {
+      "id": 37,
+      "user": "Deborah Warner",
+      "action": "logout",
+      "timestamp": "2025-05-21T02:37:33",
+      "status": "success"
+    },
+    {
+      "id": 38,
+      "user": "Katrina Dennis",
+      "action": "delete",
+      "timestamp": "2025-06-15T11:05:06",
+      "status": "success"
+    },
+    {
+      "id": 39,
+      "user": "Jacob Turner",
+      "action": "update",
+      "timestamp": "2025-08-08T16:05:14",
+      "status": "failure"
+    },
+    {
+      "id": 40,
+      "user": "George Cooper",
+      "action": "create",
+      "timestamp": "2025-08-12T09:38:53",
+      "status": "failure"
+    },
+    {
+      "id": 41,
+      "user": "Michelle Livingston",
+      "action": "create",
+      "timestamp": "2025-07-06T18:23:40",
+      "status": "success"
+    },
+    {
+      "id": 42,
+      "user": "Kevin Meyer",
+      "action": "update",
+      "timestamp": "2025-07-24T06:23:32",
+      "status": "failure"
+    },
+    {
+      "id": 43,
+      "user": "Susan Johnston",
+      "action": "delete",
+      "timestamp": "2025-08-05T18:32:22",
+      "status": "success"
+    },
+    {
+      "id": 44,
+      "user": "Pamela Middleton",
+      "action": "login",
+      "timestamp": "2025-07-08T07:42:43",
+      "status": "success"
+    },
+    {
+      "id": 45,
+      "user": "Sheila Jackson",
+      "action": "login",
+      "timestamp": "2025-03-21T21:02:05",
+      "status": "failure"
+    },
+    {
+      "id": 46,
+      "user": "Christopher Jones",
+      "action": "login",
+      "timestamp": "2025-09-13T05:21:52",
+      "status": "failure"
+    },
+    {
+      "id": 47,
+      "user": "Loretta Castro",
+      "action": "login",
+      "timestamp": "2025-02-15T23:21:44",
+      "status": "success"
+    },
+    {
+      "id": 48,
+      "user": "Robin Lee",
+      "action": "logout",
+      "timestamp": "2025-07-01T23:01:35",
+      "status": "failure"
+    },
+    {
+      "id": 49,
+      "user": "Richard Hunter",
+      "action": "update",
+      "timestamp": "2025-08-26T05:48:17",
+      "status": "success"
+    },
+    {
+      "id": 50,
+      "user": "Joshua Morrow",
+      "action": "delete",
+      "timestamp": "2025-05-21T19:52:52",
+      "status": "failure"
+    }
+  ]
+}
